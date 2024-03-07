@@ -1,0 +1,69 @@
+@media (max-width: 1700px){
+}
+
+.title-bar {
+	
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	top:20px;
+	left:1558px;
+	position: absolute;	
+}
+
+
+
+.menu-buttons{
+	
+	position:absolute;
+	background-color:aquamarine;
+	border-color:#CEF6E3;
+	
+}
+
+.menu-buttons:hover{
+	
+	background-color:green;
+	
+}
+
+
+.about-us{ 
+
+top: 70px; 
+left: 1565px;
+
+}
+
+.statistics{ 
+
+top: 120px; 
+left: 1565px;
+
+}
+
+.demo{ 
+
+top: 170px; 
+left: 1565px;
+
+}
+
+.contact-us{ 
+
+top: 230px; 
+left: 1565px;
+
+}
+
+
+.changebar {
+height: 500px;
+width: 120px;
+background-color:white;
+top: 0px;
+left: 1550px;
+position: absolute;
+}
+
+button {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";	
+}
